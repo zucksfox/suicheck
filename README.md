@@ -15,6 +15,13 @@ Buka Folder kamu
 ```
 cd suicheck
 ```
+Masukan address sui kamu di ```wallet.txt```
+contoh :
+```
+0x1xxxxxxxxxxx
+0x2xxxxxxxxxxx
+0x3xxxxxxxxxxx
+```
 Run
 ```
 python suicheck.py 
